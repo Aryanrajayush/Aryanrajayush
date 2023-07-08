@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :Discord-AryanRJ#0069
+- 📫 How to reach me :Instagram-itz_ayu._.sh
 
 <!---
 Aryanrajayush/Aryanrajayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
